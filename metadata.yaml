@@ -1,0 +1,34 @@
+_repo: Secret-Band-of-BrothersA-Full-and-True-Exposition-of-All-the-Various-Crimes-Villanies-and-Mis__17917
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Green, J. H. (Jonathan Harrington)
+    aliases:
+    - Greene, J. H. (Jonathan Harrington)
+    - Green, Jonathan Harrington
+    - Greene, Jonathan Harrington
+    birthdate: 1812
+    gutenberg_agent_id: '7696'
+    url: http://www.gutenberg.org/2009/agents/7696
+description: ''
+gutenberg_issued: '2006-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17917'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Organized crime -- United States -- History -- 19th century'
+- !lcsh 'Gambling and crime -- United States -- History -- 19th century'
+- !lcsh 'Gambling -- United States -- History -- 19th century'
+title: 'Secret Band of Brothers
+
+  A Full and True Exposition of All the Various Crimes, Villanies, and Misdeeds of
+  This Powerful Organization in the United States.'
+url: http://www.gutenberg.org/ebooks/17917
